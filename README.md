@@ -9,6 +9,7 @@
  2. New ideas by people, who are working.
  3. Updates on projects and live donation count for each donee.
  4. Goals to be reached or almost reached(Counter).
+ 
  Each indivisual story donee can be created and shared(with use of NLP), on multiple platforms such as Facebook, twitter, and other social networking sites
  Features such as direct transactions through UPI payment gateways, Wallets, direct pay through cards or Net Banking, so as to minimize the effort of normal bank transfers, and send money directly to whatever ideas one is interested in and wants to help.
  
